@@ -1,0 +1,21 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+#spacer {
+	height: 30%;
+}
+#content {
+	text-align: center;
+	font-family: 'Amatic Sc', cursive;		
+}
+#content a {
+	font-size: 30px;
+	color: rgb(0, 238, 238);
+}
+#content a:hover {
+	color: black;
+}
+#content h1 {
+	font-size: 60px;
+}
